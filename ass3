@@ -15,9 +15,9 @@ int n,count=0,i,r,c=0,counts=0;
                printf("%d",counts);
                break;
            }
-          // printf("%d",count);
+          
        }
-       //if(count==0)
-       //printf("\n%d",n);
-       //printf("%d",count);
+       if(count==0)
+       printf("\n%d",n);
+  
    }
